@@ -31,8 +31,11 @@ For the CGMY model we used the Fourier pricing teqnique of [Lewis (2001)](https:
 <img src="images/lewis1.svg" />
 
 where 
+
 <img src="images/lewis2.svg" width="50px" height="50px" />
+
 and <img src="images/lewis3.svg" /> being the standardized characteristic function of 
+
 <img src="images/lewis4.svg" />
 
 ### The calibration procedure
