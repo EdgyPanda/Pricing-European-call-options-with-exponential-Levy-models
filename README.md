@@ -86,7 +86,6 @@ Below you see the implied volatility surfaces for the calibrated models. The dis
 
 <img src="/images/calibrationplot2d.png" width="800"/>
 <img src="/images/surfaceplots.png" width="800"/>
-<img src="/images/errorsurface.png" width="700"/>
 
 
 ### Calculating the ATM implied volatility skew
