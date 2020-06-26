@@ -84,9 +84,10 @@ The motivation for using both accuracy measures is that mean squared error is sc
 
 Below you see the implied volatility surfaces for the calibrated models. The discussion of the findings can be found in my assignment (see pdf in this repository).
 
-![sticks](/images/calibration2d.png)
-![surf](/images/surfaceplots.png)
-![errorsurf](/images/errorsurface.png)
+<img src="/images/calibrationplot2d.png" width="800"/>
+<img src="/images/surfaceplots.png" width="800"/>
+<img src="/images/errorsurface.png" width="800"/>
+
 
 ### Calculating the ATM implied volatility skew
 
@@ -104,7 +105,7 @@ The above formula gives us no way to recover the market skew. Therefore I supple
 
 This produced the plot (see discussion of plot in assignment),
 
-<img src="images/skewness.eps" />
+<img src="/images/skewness.eps" width="800"/>
 
 The MATLAB code for calculating the ATM implied volatility skew essentially looked like this:
 
