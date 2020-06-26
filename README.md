@@ -30,7 +30,10 @@ For the CGMY model we used the Fourier pricing teqnique of [Lewis (2001)](https:
 
 <img src="images/lewis1.svg" />
 
-where <img src="images/lewis2.svg" width="50px" height="50px" /> and <img src="images/lewis3.svg" /> being the standardized characteristic function of <img src="images/lewis4.svg" />
+where 
+<img src="images/lewis2.svg" width="50px" height="50px" />
+and <img src="images/lewis3.svg" /> being the standardized characteristic function of 
+<img src="images/lewis4.svg" />
 
 ### The calibration procedure
 
@@ -78,9 +81,9 @@ The motivation for using both accuracy measures is that mean squared error is sc
 
 Below you see the implied volatility surfaces for the calibrated models. The discussion of the findings can be found in my assignment (see pdf in this repository).
 
- <img src="images/calibration2d.eps" />
- <img src="images/surfaceplots.eps" />
- <img src="images/errorsurface.eps" />
+![](/images/calibration2d.eps)
+![](/images/surfaceplots.eps)
+![](/images/errorsurface.eps)
 
 ### Calculating the ATM implied volatility skew
 
