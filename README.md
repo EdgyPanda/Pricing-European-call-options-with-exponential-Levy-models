@@ -84,9 +84,9 @@ The motivation for using both accuracy measures is that mean squared error is sc
 
 Below you see the implied volatility surfaces for the calibrated models. The discussion of the findings can be found in my assignment (see pdf in this repository).
 
-![sticks](/images/calibration2d.eps)
-![surf](/images/surfaceplots.eps)
-![errorsurf](/images/errorsurface.eps)
+![sticks](/images/calibration2d.png)
+![surf](/images/surfaceplots.png)
+![errorsurf](/images/errorsurface.png)
 
 ### Calculating the ATM implied volatility skew
 
